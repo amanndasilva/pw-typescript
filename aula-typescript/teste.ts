@@ -1,0 +1,1 @@
+let palavra: string = 'amanda';
